@@ -7,7 +7,6 @@ id = {
   }
 }
 
-
 id_tags = {
   "titulo": "Explorando Schema Flexível",
   "autor": "Thiago Lorena",
